@@ -24,6 +24,7 @@
         <preference name="BackupWebStorage" value="none" />
     </platform>
     <preference name="DisallowOverscroll" value="true" />
+    <preference name="Fullscreen" value="true" />
 
     <!-- Uncomment to use the latest, fastest iOS WebView (see this post http://devgirl.org/2016/01/11/a-faster-hybrid-app-for-the-new-year/) -->
     <!--<plugin name="cordova-plugin-wkwebview-engine" spec="~1.0.1" />-->
